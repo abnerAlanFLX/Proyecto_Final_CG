@@ -1,0 +1,140 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 14.01.2021 15:05:59
+
+newmtl st_gold
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.9451 0.7725 0.4078
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka metalyel.jpg
+	map_Kd metalyel.jpg
+
+newmtl standart_metal
+	Ns 40.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.7373 0.6941 0.9098
+	Ks 0.6300 0.6300 0.6300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka metalGre.jpg
+	map_Kd metalGre.jpg
+
+newmtl mat_steklo
+	Ns 30.0000
+	Ni 1.5000
+	d 0.6500
+	Tr 0.3500
+	Tf 0.6500 0.6500 0.6500 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.1137 0.1137 0.1137
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0284 0.0284 0.0284
+
+newmtl white_rexture
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.9804 0.9412 0.9529
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka lig_grey.jpg
+	map_Kd lig_grey.jpg
+
+newmtl wood
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8902 0.6588 0.2549
+	Ks 0.6300 0.6300 0.6300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka wood_114.jpg
+	map_Kd wood_114.jpg
+
+newmtl st_tile
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.9216 0.9216 0.9216
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka lig_whit.jpg
+	map_Kd lig_whit.jpg
+
+newmtl broun
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6784 0.5216 0.4353
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka metalBro.jpg
+	map_Kd metalBro.jpg
+
+newmtl yellow_light
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.9216 0.5725 0.2627
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Ocra_Lux.jpg
+	map_Kd Ocra_Lux.jpg
+
+newmtl st_chrom
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.8157 0.9059 0.7686
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Metal_sm.jpg
+	map_Kd Metal_sm.jpg
+
+newmtl black_st
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3098 0.3098 0.3098
+	Ks 0.6300 0.6300 0.6300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka metalbla.jpg
+	map_Kd metalbla.jpg

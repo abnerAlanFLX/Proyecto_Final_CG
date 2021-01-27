@@ -1,0 +1,240 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 26.01.2021 19:00:21
+
+newmtl Metalli0
+	Ns 51.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6549 0.0000 0.0000
+	Ks 2.8380 4.7300 5.6100
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Metalli0.jpg
+	map_Kd Metalli0.jpg
+
+newmtl Metalli1
+	Ns 51.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6549 0.0000 0.0000
+	Ks 2.8380 4.7300 5.6100
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Metalli1.jpg
+	map_Kd Metalli1.jpg
+
+newmtl Metalli2
+	Ns 51.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6549 0.0000 0.0000
+	Ks 2.8380 4.7300 5.6100
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Metalli2.jpg
+	map_Kd Metalli2.jpg
+
+newmtl overheat
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.4471 0.4941 0.5412
+	Ks 0.5616 0.6598 1.7760
+	Ke 0.0000 0.0000 0.0000
+	map_Ka overheat.jpg
+	map_Kd overheat.jpg
+
+newmtl Unpure_g
+	Ns 150.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.6100 1.6100 1.6100
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Unpure_g.jpg
+	map_Kd Unpure_g.jpg
+
+newmtl Metalli3
+	Ns 51.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6549 0.0000 0.0000
+	Ks 2.8380 4.7300 5.6100
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Metalli3.jpg
+	map_Kd Metalli3.jpg
+
+newmtl Pewter
+	Ns 127.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3294 0.3294 0.3294
+	Ks 1.2681 1.5704 1.8800
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Pewter.jpg
+	map_Kd Pewter.jpg
+
+newmtl Metalli4
+	Ns 76.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 2.4485 4.0808 4.8400
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Metalli4.jpg
+	map_Kd Metalli4.jpg
+
+newmtl Mercury
+	Ns 168.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5255 0.5294 0.5373
+	Ks 1.4800 1.4800 1.4800
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Mercury.jpg
+	map_Kd Mercury.jpg
+
+newmtl Dark_smo
+	Ns 150.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.2157 0.2157 0.2157
+	Ks 1.6100 1.6100 1.6100
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Dark_smo.jpg
+	map_Kd Dark_smo.jpg
+
+newmtl initial0
+	Ns 89.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.5800 0.5800 0.5800
+	Ke 0.0000 0.0000 0.0000
+	map_Ka initial0.jpg
+	map_Kd initial0.jpg
+
+newmtl Body
+	Ns 35.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0667 0.0000 0.0000
+	Ks 0.8220 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Body.jpg
+	map_Kd Body.jpg
+
+newmtl Pottery_
+	Ns 35.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3255 0.0353 0.0039
+	Ks 0.3722 0.1400 0.0066
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Pottery_.jpg
+	map_Kd Pottery_.jpg
+
+newmtl initial1
+	Ns 89.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.5800 0.5800 0.5800
+	Ke 0.0000 0.0000 0.0000
+	map_Ka initial1.jpg
+	map_Kd initial1.jpg
+
+newmtl Alumini0
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3765 0.3765 0.3765
+	Ks 1.9300 1.9300 1.9300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Alumini0.jpg
+	map_Kd Alumini0.jpg
+
+newmtl Alumini1
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3765 0.3765 0.3765
+	Ks 1.9300 1.9300 1.9300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Alumini1.jpg
+	map_Kd Alumini1.jpg
+
+newmtl Alumini2
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.3765 0.3765 0.3765
+	Ks 1.9300 1.9300 1.9300
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Alumini2.jpg
+	map_Kd Alumini2.jpg

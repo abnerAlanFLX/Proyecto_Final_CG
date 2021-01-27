@@ -1,0 +1,46 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 13.01.2021 20:56:31
+
+newmtl green
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5216 0.7216 0.5294
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka 7_1_gree.jpg
+	map_Kd 7_1_gree.jpg
+
+newmtl room_15_81
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.4667 0.8235 0.5647
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Mods_roo.jpeg
+	map_Kd Mods_roo.jpeg
+
+newmtl mat_steklo
+	Ns 64.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5333 0.5333 0.8078
+	Ks 0.6200 0.6200 0.6200
+	Ke 0.1333 0.1333 0.2020
+	map_Ka Pool_Blu.jpeg
+	map_Kd Pool_Blu.jpeg
+	map_bump Pool_Blu.jpeg
+	bump Pool_Blu.jpeg
